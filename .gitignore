@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local benchmark assets
+normal_images.zip
+POPEv2/annotations.json
+POPEv2/test.parquet
+POPEv2/images/
+POPEv2/normal_images/
+
+# Vendored CI workflows that require extra GitHub workflow permissions to push
+LLaMA-Factory-for-obliviate/transformers/.github/workflows/
