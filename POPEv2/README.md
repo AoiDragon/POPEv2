@@ -38,7 +38,6 @@ dataset = load_dataset("Monosail/POPEv2", split="test")
 ## Notes
 
 - The published benchmark lives on Hugging Face rather than in this GitHub repo.
-- `scripts/prepare_popev2_hf_parquet.py` can be used to rebuild the parquet release from local paired assets.
 
 ## Citation
 

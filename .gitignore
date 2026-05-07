@@ -8,10 +8,12 @@ __pycache__/
 
 # Local benchmark assets
 normal_images.zip
+Obliviate_sup.pdf
 POPEv2/annotations.json
 POPEv2/test.parquet
 POPEv2/images/
 POPEv2/normal_images/
+scripts/prepare_popev2_hf_parquet.py
 
 # Vendored CI workflows that require extra GitHub workflow permissions to push
 LLaMA-Factory-for-obliviate/transformers/.github/workflows/

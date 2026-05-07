@@ -25,12 +25,10 @@ This repository is organized for public release:
 | `LLaMA-Factory-for-obliviate/` | Modified LLaMA-Factory codebase used to implement Obliviate. |
 | `LLaMA-Factory-for-obliviate/examples/train_full/qwen2vl_72B.yaml` | Example training config for the Qwen2-VL-72B setup used in our experiments. |
 | `scripts/run_qwen2vl.sh` | One-command example launcher for Qwen2-VL training on the released training data. |
-| `scripts/prepare_popev2_hf_parquet.py` | Utility to package paired images and annotations into the Hugging Face parquet release. |
 | `POPEv2/README.md` | Benchmark note and loading instructions for the public release. |
 | `training_data/ul_2k_8k_qwen.json` | Training-data release used by the Qwen2-VL Obliviate setup. |
 | `training_data/dataset_info.json` | LLaMA-Factory dataset registry entry for the released training data. |
 | `training_data/README.md` | Notes on the released training-data format and image-path assumptions. |
-| `Obliviate_sup.pdf` | Supplementary material for the paper. |
 
 ## Benchmark
 
